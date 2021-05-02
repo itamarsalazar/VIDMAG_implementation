@@ -7,7 +7,6 @@ with a GUI to modify parameters.
 Project Organization
 ------------
 
-    ├── LICENSE
     ├── README.md          
     ├── data
     │   ├── processed      <- Processed videos (magnified videos).
